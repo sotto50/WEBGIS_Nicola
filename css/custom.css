@@ -1,0 +1,40 @@
+#banner{
+padding-top: 2px;
+padding-bottom: 2px;
+padding-left: 20px;
+background-color: #82b1ff;
+}
+
+#map{
+height: 800px;
+min-height: 800px;
+padding: 10px;
+}
+
+#legend > div > ul > li > span{
+  float: left;
+  margin-top: -21px;
+  margin-left: 33px;
+}
+
+.leaflet-sidebar-tabs > ul > li.active {
+    background-color: #4e6269!important;
+}
+
+.leaflet-sidebar-content {
+    background-color: rgba(255, 255, 255, 0.85)!important;
+}
+.leaflet-sidebar.leaflet-touch {
+    border: 0px solid rgba(0, 0, 0, 0.2)!important;
+}
+.leaflet-sidebar {
+    border-radius: 0px!important;
+}
+
+.leaflet-sidebar-tabs > ul > li.active {
+    background-color: #4e6269!important;
+}
+
+.leaflet-sidebar-header {
+    background-color: #4e6269!important;
+}
